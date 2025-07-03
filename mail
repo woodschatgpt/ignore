@@ -1,0 +1,21 @@
+Subject: Monthly Revalidation Workflow – Detailed Plan Document
+
+Hi Pradeep,
+
+As discussed, please find attached the detailed workflow document describing our proposed approach for the Monthly Revalidation feature in the Outlier Detector pipeline.
+
+This document includes:
+
+Background and purpose of the revalidation job
+Step-by-step workflow description
+Sample data illustrating the comparison logic
+Expected output format with REVALIDATION_STATUS handling (updated, missing, new)
+Benefits and next steps for implementation
+The goal of this revalidation process is to ensure our outlier data remains fully in sync with the latest positions/transaction recalculations, while preserving client annotations and maintaining a clear audit trail of all changes.
+
+Please review the attached document at your convenience. Let me know if you’d like to discuss any part of it further or if there are any suggested adjustments.
+
+Happy to walk through it in detail if needed.
+
+Thanks and regards,
+Navya
